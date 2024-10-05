@@ -1,4 +1,11 @@
-//
+/*
+TITLE: Chapter 4 Exercise 23 - Geometry Calculator
+FILE NAME: Chapter4Ex23DAngeloFrancis.cpp
+PROGRAMMER: D'Angelo Francis
+DATE: 10/5/2024
+REQUIREMENTS: Calculate area of triangle, rectangle and circle
+*/
+
 #include <iostream>
 #include <cmath>
 using namespace std;
