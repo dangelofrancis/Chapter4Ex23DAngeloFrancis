@@ -94,7 +94,7 @@ int main()
 		case 4:
 			return 0;
 		default:
-			cout << "The number entered is invalid";
+			cout << "The number entered is invalid." << endl << endl;
 			break;
 		}
 	}
